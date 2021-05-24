@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44bf84bb0244af4a93a3a73998ed57f, type: 3}
+  m_Name: SpawnModule
+  m_EditorClassIdentifier: 
+  radius: 13.75
+  module: {fileID: 8879191252039587685, guid: e0eb69f4c7a7618479cca4251c4c334e, type: 3}
+  nextUsableModules:
+  - {fileID: 11400000, guid: dd3d857af1ed65b4a85bdac28e772a3c, type: 2}
+  - {fileID: 11400000, guid: f49e0d7bc047e3f48bbd008ba6d827ae, type: 2}
