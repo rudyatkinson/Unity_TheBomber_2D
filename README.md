@@ -1,10 +1,10 @@
 ## About The Project
 We are a team that met in the program called "Game Entrepreneurs" supported by a ministry of the Republic of Turkey. Our team consists of 4 people for now. Our purpose to develop the game are as follows:
 
--To determine our limits and strengths,  
--To understand the scrump methodology,  
--To strengthen the communication,  
--To determine our most suitable working system.  
+*To determine our limits and strengths,  
+*To understand the scrump methodology,  
+*To strengthen the communication,  
+*To determine our most suitable working system.  
 
 We developed the game in 2 weeks, then debugged and revised in 1 week.
 What we did from the idea stage of the game to its release:
