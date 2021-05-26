@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-//RUDY: OnValueChanged eventleri yazýlacak.
-
 public class SoundManager : MonoBehaviour
 {
     public static SoundManager _Instance { get; private set; }
