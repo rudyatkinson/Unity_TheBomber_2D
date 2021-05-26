@@ -17,7 +17,7 @@ public class Settings : MonoBehaviour
     #region Setting Variables
     // Contains audio volume
     [Range(0f, 1f)]
-    public static float PlayAudioVolume;
+    public static float PlayAudioVolume; { get; private set; }
     // Contains info that audio sources gonna play or not
     public static bool PlayAudioSetting { get; private set; }
     // Contains info that vibration is on or not
@@ -31,7 +31,6 @@ public class Settings : MonoBehaviour
         else
         {
             _Instance = this;
-            DontDestroyOnLoad(this);
         }
     }
 
