@@ -20,3 +20,5 @@ What we did from the idea stage of the game to its release:
 * Fixed an issue where sound was not playing at first startup.
 ##### Script Changes
 * SoundManager separated in accordance with the SOLID principles.
+
+## Download [Google Play](https://play.google.com/store/apps/details?id=com.Granzwelt.TheBomber)
