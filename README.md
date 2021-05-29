@@ -22,3 +22,4 @@ What we did from the idea stage of the game to its release:
 * SoundManager separated in accordance with the SOLID principles.
 
 ## Download [Google Play](https://play.google.com/store/apps/details?id=com.Granzwelt.TheBomber)
+## LınkedIn [LinkedIn](https://www.linkedin.com/posts/muhammed-bilal-aydin-9959a1174_granzwelt-ekibi-activity-6803284853975465984-SDb0)
