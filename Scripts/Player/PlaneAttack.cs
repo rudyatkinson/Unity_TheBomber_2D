@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlaneAttack : MonoBehaviour
+public class PlayerAttack : MonoBehaviour
 {
     #region Bomb Variables
     public int maxBombCount { get; private set; } = 5;
